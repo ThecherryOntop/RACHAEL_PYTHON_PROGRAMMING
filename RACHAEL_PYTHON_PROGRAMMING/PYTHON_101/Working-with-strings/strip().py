@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+# Using strip method to remove space
 # Define two string values with starting and ending space
 username = " admin"
 password = " hello123 "
